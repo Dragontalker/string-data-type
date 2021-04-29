@@ -26,5 +26,9 @@ public class Main {
         int myInt = 50;
         lastString = lastString + myInt;
         System.out.println("lastString = " + lastString);
+
+        double doubleNumber = 120.47d;
+        lastString = lastString + doubleNumber;
+        System.out.println("doubleNumber = " + lastString);
     }
 }
