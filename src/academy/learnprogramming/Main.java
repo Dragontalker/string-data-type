@@ -11,5 +11,7 @@ public class Main {
         // double
         // char
         // boolean
+        String myString = "This is a string";
+        System.out.println("my String = " + myString);
     }
 }
