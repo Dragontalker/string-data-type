@@ -17,5 +17,9 @@ public class Main {
         System.out.println("my String = " + myString);
         myString = myString + " \u00A9 2021";
         System.out.println("my String = " + myString);
+
+        String numberString = "250.55";
+        numberString = numberString + "49.95";
+        System.out.println("numberString = " + numberString);
     }
 }
