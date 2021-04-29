@@ -15,5 +15,7 @@ public class Main {
         System.out.println("my String = " + myString);
         myString = myString + ", and this is more.";
         System.out.println("my String = " + myString);
+        myString = myString + " \u00A9 2021";
+        System.out.println("my String = " + myString);
     }
 }
