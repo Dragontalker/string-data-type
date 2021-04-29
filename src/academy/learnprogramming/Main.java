@@ -13,5 +13,7 @@ public class Main {
         // boolean
         String myString = "This is a string";
         System.out.println("my String = " + myString);
+        myString = myString + ", and this is more.";
+        System.out.println("my String = " + myString);
     }
 }
