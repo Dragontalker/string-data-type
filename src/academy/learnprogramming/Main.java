@@ -21,5 +21,10 @@ public class Main {
         String numberString = "250.55";
         numberString = numberString + "49.95";
         System.out.println("numberString = " + numberString);
+
+        String lastString = "10";
+        int myInt = 50;
+        lastString = lastString + myInt;
+        System.out.println("lastString = " + lastString);
     }
 }
